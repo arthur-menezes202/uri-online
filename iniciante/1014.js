@@ -1,5 +1,8 @@
 let input = require('fs').readFileSync('stdin', 'utf8');
 
+// 500
+// 35.0
+
 let linhas = input.split('\n');
 
 const distancia = linhas.shift();
