@@ -18,9 +18,3 @@ for (let j = 6; j < cedula.length; j++) {
     console.log(`${aux} moeda(s) de R$ ${cedula[j].toFixed(2)}`)
     valor = valor % cedula[j] + 0.00001
 }
-
-E-mail Bitbucket: desenvolvedor@waproject.com.br
-
-User: desenvolvedorWA
-
-Pass: senha123
